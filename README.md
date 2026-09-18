@@ -7,6 +7,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojasri777/leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/poojasri777/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/poojasri777/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/poojasri777/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-reverse-only-letters](https://github.com/poojasri777/leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
