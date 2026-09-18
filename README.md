@@ -23,6 +23,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojasri777/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/poojasri777/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/poojasri777/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/poojasri777/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/poojasri777/leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
@@ -64,9 +65,14 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/poojasri777/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/poojasri777/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/poojasri777/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/poojasri777/leetcode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
