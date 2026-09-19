@@ -33,6 +33,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/poojasri777/leetcode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/poojasri777/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/poojasri777/leetcode/tree/master/0917-reverse-only-letters) |
@@ -60,6 +61,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/poojasri777/leetcode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poojasri777/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -84,6 +86,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/poojasri777/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poojasri777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
