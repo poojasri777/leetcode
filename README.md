@@ -36,6 +36,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/poojasri777/leetcode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poojasri777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/poojasri777/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poojasri777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -75,4 +77,8 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/poojasri777/leetcode/tree/master/0633-sum-of-square-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/poojasri777/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
