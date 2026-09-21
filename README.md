@@ -15,6 +15,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poojasri777/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/poojasri777/leetcode/tree/master/0881-boats-to-save-people) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poojasri777/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Timsort
 |  |
 | ------- |
@@ -100,4 +102,5 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poojasri777/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
