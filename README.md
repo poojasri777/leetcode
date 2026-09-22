@@ -12,6 +12,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
 | [0881-boats-to-save-people](https://github.com/poojasri777/leetcode/tree/master/0881-boats-to-save-people) |
+| [0922-sort-array-by-parity-ii](https://github.com/poojasri777/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -30,6 +31,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0633-sum-of-square-numbers](https://github.com/poojasri777/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/poojasri777/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/poojasri777/leetcode/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/poojasri777/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/poojasri777/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/poojasri777/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -57,6 +59,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/poojasri777/leetcode/tree/master/0881-boats-to-save-people) |
+| [0922-sort-array-by-parity-ii](https://github.com/poojasri777/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poojasri777/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Timsort
 |  |
