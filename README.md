@@ -26,6 +26,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojasri777/leetcode/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/poojasri777/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2540-minimum-common-value](https://github.com/poojasri777/leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0026-remove-duplicates-from-sorted-array](https://github.com/poojasri777/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/poojasri777/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojasri777/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/poojasri777/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/poojasri777/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/poojasri777/leetcode/tree/master/0443-string-compression) |
@@ -130,4 +132,8 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poojasri777/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/poojasri777/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
