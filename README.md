@@ -20,6 +20,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0946-validate-stack-sequences](https://github.com/poojasri777/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poojasri777/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poojasri777/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2540-minimum-common-value](https://github.com/poojasri777/leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
@@ -104,6 +105,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/poojasri777/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poojasri777/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2396-strictly-palindromic-number](https://github.com/poojasri777/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -127,6 +129,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/poojasri777/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poojasri777/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,4 +139,12 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/poojasri777/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poojasri777/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/poojasri777/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
