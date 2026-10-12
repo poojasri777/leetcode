@@ -18,6 +18,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0922-sort-array-by-parity-ii](https://github.com/poojasri777/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/poojasri777/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/poojasri777/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/poojasri777/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -134,6 +135,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/poojasri777/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poojasri777/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
 |  |
