@@ -9,8 +9,7 @@ class Solution {
         c++;
         }
        for(int j=k;j<arr.length;j++){
-         sum-=arr[j-k];
-         sum+=arr[j];
+         sum=sum-arr[j-k]+arr[j];
         int avg=sum/k; 
             if(avg>=threshold){
                 c++;
