@@ -11,6 +11,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0026-remove-duplicates-from-sorted-array](https://github.com/poojasri777/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/poojasri777/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojasri777/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/poojasri777/leetcode/tree/master/0739-daily-temperatures) |
@@ -117,6 +118,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/poojasri777/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2540-minimum-common-value](https://github.com/poojasri777/leetcode/tree/master/2540-minimum-common-value) |
 ## Bracket Sequences
@@ -155,5 +157,10 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/poojasri777/leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
