@@ -169,6 +169,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0102-binary-tree-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojasri777/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -176,6 +177,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0102-binary-tree-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojasri777/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -183,9 +185,11 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0102-binary-tree-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojasri777/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
