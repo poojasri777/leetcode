@@ -178,6 +178,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/poojasri777/leetcode/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/poojasri777/leetcode/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/poojasri777/leetcode/tree/master/1609-even-odd-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -213,4 +216,5 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
