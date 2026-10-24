@@ -29,20 +29,23 @@ class Solution {
        
        while(!q.isEmpty()){
         int n=q.size();
-        Node temp=null;
-        
+       
+        ArrayList<Node>al=new ArrayList<>();
         for(int i=0;i<n;i++){
             Node r1=q.poll();
-            if(temp!=null)
-            temp.next=r1;
-            temp=r1;
+            
             if(r1.left!=null)
                 q.offer(r1.left);
                 
             if(r1.right!=null)
                 q.offer(r1.right);
+                al.add(r1);
         }
-        temp.next=null;
+        for(int i=0;i<al.size()-1;i++){
+            al.get(i).next=al.get(i+1);
+        }
+        al.get(al.size()-1).next=null;
+        
        }
        return root;
     }
