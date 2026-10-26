@@ -56,6 +56,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/poojasri777/leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/poojasri777/leetcode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/poojasri777/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
