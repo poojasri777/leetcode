@@ -25,6 +25,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/poojasri777/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/poojasri777/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/poojasri777/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/poojasri777/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2540-minimum-common-value](https://github.com/poojasri777/leetcode/tree/master/2540-minimum-common-value) |
@@ -167,6 +168,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/poojasri777/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/poojasri777/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/poojasri777/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
