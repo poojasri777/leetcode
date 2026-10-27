@@ -17,6 +17,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/poojasri777/leetcode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/poojasri777/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/poojasri777/leetcode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/poojasri777/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
@@ -47,6 +48,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/poojasri777/leetcode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/poojasri777/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/poojasri777/leetcode/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/poojasri777/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/poojasri777/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -137,6 +139,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | ------- |
 | [0054-spiral-matrix](https://github.com/poojasri777/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
 | [0946-validate-stack-sequences](https://github.com/poojasri777/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/poojasri777/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -167,6 +170,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0054-spiral-matrix](https://github.com/poojasri777/leetcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/poojasri777/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/poojasri777/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/poojasri777/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
@@ -225,4 +229,8 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
