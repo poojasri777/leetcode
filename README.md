@@ -98,6 +98,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojasri777/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/poojasri777/leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/poojasri777/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -187,6 +188,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojasri777/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poojasri777/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -216,6 +218,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojasri777/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poojasri777/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -228,6 +231,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0094-binary-tree-inorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poojasri777/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
