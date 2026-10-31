@@ -12,6 +12,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0027-remove-element](https://github.com/poojasri777/leetcode/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/poojasri777/leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojasri777/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0198-house-robber](https://github.com/poojasri777/leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
@@ -82,6 +83,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/poojasri777/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/poojasri777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
