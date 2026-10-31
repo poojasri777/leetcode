@@ -16,6 +16,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/poojasri777/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/poojasri777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/poojasri777/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/poojasri777/leetcode/tree/master/0881-boats-to-save-people) |
@@ -82,6 +83,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/poojasri777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
