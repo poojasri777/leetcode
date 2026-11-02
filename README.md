@@ -199,6 +199,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0700-search-in-a-binary-search-tree](https://github.com/poojasri777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/poojasri777/leetcode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -235,6 +236,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0700-search-in-a-binary-search-tree](https://github.com/poojasri777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/poojasri777/leetcode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -257,4 +259,8 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/poojasri777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
