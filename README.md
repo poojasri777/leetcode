@@ -187,6 +187,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/poojasri777/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojasri777/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -202,6 +203,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/poojasri777/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojasri777/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -217,6 +219,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/poojasri777/leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/poojasri777/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/poojasri777/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -233,6 +236,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/poojasri777/leetcode/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poojasri777/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
