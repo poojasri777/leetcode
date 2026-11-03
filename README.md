@@ -197,6 +197,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/poojasri777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/poojasri777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -215,6 +216,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poojasri777/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/poojasri777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -234,6 +236,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/poojasri777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/poojasri777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -251,6 +254,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/poojasri777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
