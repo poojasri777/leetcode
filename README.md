@@ -10,6 +10,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0016-3sum-closest](https://github.com/poojasri777/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/poojasri777/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/poojasri777/leetcode/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/poojasri777/leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/poojasri777/leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojasri777/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/poojasri777/leetcode/tree/master/0198-house-robber) |
@@ -267,4 +268,8 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/poojasri777/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/poojasri777/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
