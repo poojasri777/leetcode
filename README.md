@@ -29,6 +29,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/poojasri777/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0997-find-the-town-judge](https://github.com/poojasri777/leetcode/tree/master/0997-find-the-town-judge) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/poojasri777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/poojasri777/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -92,6 +93,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0198-house-robber](https://github.com/poojasri777/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/poojasri777/leetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/poojasri777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/poojasri777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +188,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0695-max-area-of-island](https://github.com/poojasri777/leetcode/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/poojasri777/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/poojasri777/leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/poojasri777/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/poojasri777/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
