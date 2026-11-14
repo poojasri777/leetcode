@@ -26,6 +26,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0922-sort-array-by-parity-ii](https://github.com/poojasri777/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/poojasri777/leetcode/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/poojasri777/leetcode/tree/master/0946-validate-stack-sequences) |
+| [0997-find-the-town-judge](https://github.com/poojasri777/leetcode/tree/master/0997-find-the-town-judge) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/poojasri777/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/poojasri777/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/poojasri777/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -39,6 +40,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | ------- |
 | [0001-two-sum](https://github.com/poojasri777/leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/poojasri777/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0997-find-the-town-judge](https://github.com/poojasri777/leetcode/tree/master/0997-find-the-town-judge) |
 | [2540-minimum-common-value](https://github.com/poojasri777/leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -275,4 +277,8 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | ------- |
 | [0046-permutations](https://github.com/poojasri777/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/poojasri777/leetcode/tree/master/0047-permutations-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/poojasri777/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
