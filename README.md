@@ -15,6 +15,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0054-spiral-matrix](https://github.com/poojasri777/leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poojasri777/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0198-house-robber](https://github.com/poojasri777/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/poojasri777/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
@@ -179,6 +180,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/poojasri777/leetcode/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/poojasri777/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/poojasri777/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
@@ -221,6 +223,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/poojasri777/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/poojasri777/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/poojasri777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -259,6 +262,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/poojasri777/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poojasri777/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/poojasri777/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/poojasri777/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/poojasri777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -281,4 +285,8 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/poojasri777/leetcode/tree/master/0997-find-the-town-judge) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/poojasri777/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
