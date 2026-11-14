@@ -19,6 +19,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/poojasri777/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/poojasri777/leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/poojasri777/leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/poojasri777/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/poojasri777/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/poojasri777/leetcode/tree/master/0766-toeplitz-matrix) |
@@ -182,6 +183,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0054-spiral-matrix](https://github.com/poojasri777/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/poojasri777/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/poojasri777/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/poojasri777/leetcode/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/poojasri777/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/poojasri777/leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/poojasri777/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -227,6 +229,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0226-invert-binary-tree](https://github.com/poojasri777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/poojasri777/leetcode/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/poojasri777/leetcode/tree/master/1609-even-odd-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -266,6 +269,7 @@ My LeetCode solutions and coding practice in Java, Python, and C
 | [0226-invert-binary-tree](https://github.com/poojasri777/leetcode/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/poojasri777/leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/poojasri777/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/poojasri777/leetcode/tree/master/0695-max-area-of-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/poojasri777/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/poojasri777/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Bit Manipulation
@@ -289,4 +293,5 @@ My LeetCode solutions and coding practice in Java, Python, and C
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/poojasri777/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/poojasri777/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
